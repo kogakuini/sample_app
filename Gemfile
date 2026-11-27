@@ -60,7 +60,7 @@ group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
   gem "selenium-webdriver"
-  gem "json", "~> 2.0"
+  gem "json", "~> 3.2"
   gem "bootstrap-sass", "3.4.1"
   gem "sassc-rails", "2.1.2"
 end
